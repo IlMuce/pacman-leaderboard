@@ -1,9 +1,1 @@
-{
-  "leaderboard": [
-    {
-      "name": "TestMux",
-      "score": 3000,
-      "timestamp": 1691750400
-    }
-  ]
-}
+{"leaderboard":[{"name":"TestPlayer","score":99999,"timestamp":1754934467},{"name":"TestMux","score":3000,"timestamp":1691750400}]}
