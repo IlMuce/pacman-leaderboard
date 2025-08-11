@@ -1,1 +1,9 @@
-{"leaderboard":[]}
+{
+  "leaderboard": [
+    {
+      "name": "TestPlayer",
+      "score": 1000,
+      "timestamp": 1691750400
+    }
+  ]
+}
